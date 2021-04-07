@@ -4,5 +4,5 @@
 ## Используемые технологии
 - html
 - css
-- svg spreact
+- svg sprites
 - normalize.css
