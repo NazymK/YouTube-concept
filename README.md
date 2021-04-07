@@ -2,7 +2,7 @@
 Проект выполнил: Каппар Назым
 
 ## Используемые технологии
--html
--css
--svg spreact
--normalize.css
+- html
+- css
+- svg spreact
+- normalize.css
